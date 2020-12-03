@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "7S7NoWW4YWETEzDsay7cg3TYcLM8Dy5+F3yS6caCfyDPQrDldvTwFn0Ee5AlqKyko+NddBu7hsz5JYe3/RGCWQ==",
+  "success": true,
+  "projectFilePath": "D:\\architecture poc\\poc\\DataService\\DataService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jabra\\.nuget\\packages\\awssdk.core\\3.5.1.42\\awssdk.core.3.5.1.42.nupkg.sha512",
+    "C:\\Users\\Jabra\\.nuget\\packages\\awssdk.dynamodbv2\\3.5.4.1\\awssdk.dynamodbv2.3.5.4.1.nupkg.sha512",
+    "C:\\Users\\Jabra\\.nuget\\packages\\microsoft.azure.cosmos\\3.10.1\\microsoft.azure.cosmos.3.10.1.nupkg.sha512",
+    "C:\\Users\\Jabra\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
+    "C:\\Users\\Jabra\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Jabra\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Jabra\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Jabra\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\Jabra\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\Jabra\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\Jabra\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Jabra\\.nuget\\packages\\system.private.servicemodel\\4.5.0\\system.private.servicemodel.4.5.0.nupkg.sha512",
+    "C:\\Users\\Jabra\\.nuget\\packages\\system.reflection.dispatchproxy\\4.5.0\\system.reflection.dispatchproxy.4.5.0.nupkg.sha512",
+    "C:\\Users\\Jabra\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Jabra\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\Jabra\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\Jabra\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\Jabra\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
+    "C:\\Users\\Jabra\\.nuget\\packages\\system.servicemodel.primitives\\4.5.0\\system.servicemodel.primitives.4.5.0.nupkg.sha512",
+    "C:\\Users\\Jabra\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512",
+    "C:\\Users\\Jabra\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Jabra\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Jabra\\.nuget\\packages"
+    ]
+  }
+}

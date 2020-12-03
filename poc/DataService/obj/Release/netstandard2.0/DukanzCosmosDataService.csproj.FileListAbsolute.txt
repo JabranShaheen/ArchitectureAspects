@@ -1,0 +1,36 @@
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzCosmosDataService\bin\Release\netstandard2.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzCosmosDataService\bin\Release\netstandard2.0\Cosmos.CRTCompat.dll
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzCosmosDataService\bin\Release\netstandard2.0\DukanzCosmosDataService.deps.json
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzCosmosDataService\bin\Release\netstandard2.0\DukanzCosmosDataService.dll
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzCosmosDataService\bin\Release\netstandard2.0\DukanzCosmosDataService.pdb
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzCosmosDataService\bin\Release\netstandard2.0\DukanzBLL.dll
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzCosmosDataService\bin\Release\netstandard2.0\DukanzDataServiceAbstraction.dll
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzCosmosDataService\bin\Release\netstandard2.0\DukanzEntityAbstractions.dll
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzCosmosDataService\bin\Release\netstandard2.0\DukanzBLL.pdb
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzCosmosDataService\bin\Release\netstandard2.0\DukanzDataServiceAbstraction.pdb
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzCosmosDataService\bin\Release\netstandard2.0\DukanzEntityAbstractions.pdb
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzCosmosDataService\obj\Release\netstandard2.0\DukanzCosmosDataService.csprojAssemblyReference.cache
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzCosmosDataService\obj\Release\netstandard2.0\DukanzCosmosDataService.AssemblyInfoInputs.cache
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzCosmosDataService\obj\Release\netstandard2.0\DukanzCosmosDataService.AssemblyInfo.cs
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzCosmosDataService\obj\Release\netstandard2.0\DukanzCosmosDataService.csproj.CoreCompileInputs.cache
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzCosmosDataService\obj\Release\netstandard2.0\DukanzCosmosDataService.csproj.CopyComplete
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzCosmosDataService\obj\Release\netstandard2.0\DukanzCosmosDataService.dll
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzCosmosDataService\obj\Release\netstandard2.0\DukanzCosmosDataService.pdb
+D:\architecture poc\Dukanz\DukanzCosmosDataService\bin\Release\netstandard2.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\architecture poc\Dukanz\DukanzCosmosDataService\bin\Release\netstandard2.0\Cosmos.CRTCompat.dll
+D:\architecture poc\Dukanz\DukanzCosmosDataService\bin\Release\netstandard2.0\DukanzCosmosDataService.deps.json
+D:\architecture poc\Dukanz\DukanzCosmosDataService\bin\Release\netstandard2.0\DukanzCosmosDataService.dll
+D:\architecture poc\Dukanz\DukanzCosmosDataService\bin\Release\netstandard2.0\DukanzCosmosDataService.pdb
+D:\architecture poc\Dukanz\DukanzCosmosDataService\bin\Release\netstandard2.0\DataServiceAbstraction.dll
+D:\architecture poc\Dukanz\DukanzCosmosDataService\bin\Release\netstandard2.0\EntityAbstractions.dll
+D:\architecture poc\Dukanz\DukanzCosmosDataService\bin\Release\netstandard2.0\DataServiceAbstraction.pdb
+D:\architecture poc\Dukanz\DukanzCosmosDataService\bin\Release\netstandard2.0\EntityAbstractions.pdb
+D:\architecture poc\Dukanz\DukanzCosmosDataService\obj\Release\netstandard2.0\DukanzCosmosDataService.csprojAssemblyReference.cache
+D:\architecture poc\Dukanz\DukanzCosmosDataService\obj\Release\netstandard2.0\DukanzCosmosDataService.AssemblyInfoInputs.cache
+D:\architecture poc\Dukanz\DukanzCosmosDataService\obj\Release\netstandard2.0\DukanzCosmosDataService.AssemblyInfo.cs
+D:\architecture poc\Dukanz\DukanzCosmosDataService\obj\Release\netstandard2.0\DukanzCosmosDataService.csproj.CoreCompileInputs.cache
+D:\architecture poc\Dukanz\DukanzCosmosDataService\obj\Release\netstandard2.0\DukanzCosmosDataService.csproj.CopyComplete
+D:\architecture poc\Dukanz\DukanzCosmosDataService\obj\Release\netstandard2.0\DukanzCosmosDataService.dll
+D:\architecture poc\Dukanz\DukanzCosmosDataService\obj\Release\netstandard2.0\DukanzCosmosDataService.pdb
+D:\architecture poc\Dukanz\DukanzCosmosDataService\bin\Release\netstandard2.0\BLL.dll
+D:\architecture poc\Dukanz\DukanzCosmosDataService\bin\Release\netstandard2.0\BLL.pdb

@@ -1,0 +1,16 @@
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\Changelog\bin\Debug\netstandard2.0\Changelog.deps.json
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\Changelog\bin\Debug\netstandard2.0\Changelog.dll
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\Changelog\bin\Debug\netstandard2.0\Changelog.pdb
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\Changelog\bin\Debug\netstandard2.0\DukanzDataServiceAbstraction.dll
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\Changelog\bin\Debug\netstandard2.0\DukanzEntityAbstractions.dll
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\Changelog\bin\Debug\netstandard2.0\DukanzEntityManagerAbstractions.dll
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\Changelog\bin\Debug\netstandard2.0\DukanzEntityAbstractions.pdb
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\Changelog\bin\Debug\netstandard2.0\DukanzDataServiceAbstraction.pdb
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\Changelog\bin\Debug\netstandard2.0\DukanzEntityManagerAbstractions.pdb
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\Changelog\obj\Debug\netstandard2.0\Changelog.csprojAssemblyReference.cache
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\Changelog\obj\Debug\netstandard2.0\Changelog.AssemblyInfoInputs.cache
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\Changelog\obj\Debug\netstandard2.0\Changelog.AssemblyInfo.cs
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\Changelog\obj\Debug\netstandard2.0\Changelog.csproj.CoreCompileInputs.cache
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\Changelog\obj\Debug\netstandard2.0\Changelog.csproj.CopyComplete
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\Changelog\obj\Debug\netstandard2.0\Changelog.dll
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\Changelog\obj\Debug\netstandard2.0\Changelog.pdb

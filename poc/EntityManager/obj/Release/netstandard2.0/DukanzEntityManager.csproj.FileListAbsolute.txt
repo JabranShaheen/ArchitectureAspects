@@ -1,0 +1,16 @@
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzEntityManager\bin\Release\netstandard2.0\DukanzEntityManager.deps.json
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzEntityManager\bin\Release\netstandard2.0\DukanzEntityManager.dll
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzEntityManager\bin\Release\netstandard2.0\DukanzEntityManager.pdb
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzEntityManager\bin\Release\netstandard2.0\DukanzDataServiceAbstraction.dll
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzEntityManager\bin\Release\netstandard2.0\DukanzEntityAbstractions.dll
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzEntityManager\bin\Release\netstandard2.0\DukanzEntityManagerAbstractions.dll
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzEntityManager\bin\Release\netstandard2.0\DukanzDataServiceAbstraction.pdb
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzEntityManager\bin\Release\netstandard2.0\DukanzEntityManagerAbstractions.pdb
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzEntityManager\bin\Release\netstandard2.0\DukanzEntityAbstractions.pdb
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzEntityManager\obj\Release\netstandard2.0\DukanzEntityManager.csprojAssemblyReference.cache
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzEntityManager\obj\Release\netstandard2.0\DukanzEntityManager.AssemblyInfoInputs.cache
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzEntityManager\obj\Release\netstandard2.0\DukanzEntityManager.AssemblyInfo.cs
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzEntityManager\obj\Release\netstandard2.0\DukanzEntityManager.csproj.CoreCompileInputs.cache
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzEntityManager\obj\Release\netstandard2.0\DukanzEntityManager.csproj.CopyComplete
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzEntityManager\obj\Release\netstandard2.0\DukanzEntityManager.dll
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzEntityManager\obj\Release\netstandard2.0\DukanzEntityManager.pdb

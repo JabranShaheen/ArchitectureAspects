@@ -1,0 +1,12 @@
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzEntityManagerAbstractions\bin\Debug\netstandard2.0\DukanzEntityManagerAbstractions.deps.json
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzEntityManagerAbstractions\bin\Debug\netstandard2.0\DukanzEntityManagerAbstractions.dll
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzEntityManagerAbstractions\bin\Debug\netstandard2.0\DukanzEntityManagerAbstractions.pdb
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzEntityManagerAbstractions\bin\Debug\netstandard2.0\DukanzEntityAbstractions.dll
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzEntityManagerAbstractions\bin\Debug\netstandard2.0\DukanzEntityAbstractions.pdb
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzEntityManagerAbstractions\obj\Debug\netstandard2.0\DukanzEntityManagerAbstractions.csprojAssemblyReference.cache
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzEntityManagerAbstractions\obj\Debug\netstandard2.0\DukanzEntityManagerAbstractions.AssemblyInfoInputs.cache
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzEntityManagerAbstractions\obj\Debug\netstandard2.0\DukanzEntityManagerAbstractions.AssemblyInfo.cs
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzEntityManagerAbstractions\obj\Debug\netstandard2.0\DukanzEntityManagerAbstractions.csproj.CoreCompileInputs.cache
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzEntityManagerAbstractions\obj\Debug\netstandard2.0\DukanzEntityManagerAbstractions.csproj.CopyComplete
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzEntityManagerAbstractions\obj\Debug\netstandard2.0\DukanzEntityManagerAbstractions.dll
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzEntityManagerAbstractions\obj\Debug\netstandard2.0\DukanzEntityManagerAbstractions.pdb

@@ -1,0 +1,17 @@
+D:\architecture poc\Dukanz\DukanzAbstractions\bin\Release\netstandard2.0\EntityAbstractions.deps.json
+D:\architecture poc\Dukanz\DukanzAbstractions\bin\Release\netstandard2.0\EntityAbstractions.dll
+D:\architecture poc\Dukanz\DukanzAbstractions\bin\Release\netstandard2.0\EntityAbstractions.pdb
+D:\architecture poc\Dukanz\DukanzAbstractions\obj\Release\netstandard2.0\EntityAbstractions.AssemblyInfoInputs.cache
+D:\architecture poc\Dukanz\DukanzAbstractions\obj\Release\netstandard2.0\EntityAbstractions.AssemblyInfo.cs
+D:\architecture poc\Dukanz\DukanzAbstractions\obj\Release\netstandard2.0\EntityAbstractions.csproj.CoreCompileInputs.cache
+D:\architecture poc\Dukanz\DukanzAbstractions\obj\Release\netstandard2.0\EntityAbstractions.dll
+D:\architecture poc\Dukanz\DukanzAbstractions\obj\Release\netstandard2.0\EntityAbstractions.pdb
+D:\architecture poc\poc\Abstractions\bin\Release\netstandard2.0\EntityAbstractions.deps.json
+D:\architecture poc\poc\Abstractions\bin\Release\netstandard2.0\EntityAbstractions.dll
+D:\architecture poc\poc\Abstractions\bin\Release\netstandard2.0\EntityAbstractions.pdb
+D:\architecture poc\poc\Abstractions\obj\Release\netstandard2.0\EntityAbstractions.AssemblyInfoInputs.cache
+D:\architecture poc\poc\Abstractions\obj\Release\netstandard2.0\EntityAbstractions.AssemblyInfo.cs
+D:\architecture poc\poc\Abstractions\obj\Release\netstandard2.0\EntityAbstractions.csproj.CoreCompileInputs.cache
+D:\architecture poc\poc\Abstractions\obj\Release\netstandard2.0\EntityAbstractions.dll
+D:\architecture poc\poc\Abstractions\obj\Release\netstandard2.0\EntityAbstractions.pdb
+D:\architecture poc\poc\Abstractions\obj\Release\netstandard2.0\EntityAbstractions.csprojAssemblyReference.cache

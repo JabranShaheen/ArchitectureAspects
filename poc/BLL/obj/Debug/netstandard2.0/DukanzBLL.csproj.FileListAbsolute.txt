@@ -1,0 +1,12 @@
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzBLL\bin\Debug\netstandard2.0\DukanzBLL.deps.json
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzBLL\bin\Debug\netstandard2.0\DukanzBLL.dll
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzBLL\bin\Debug\netstandard2.0\DukanzBLL.pdb
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzBLL\bin\Debug\netstandard2.0\DukanzEntityAbstractions.dll
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzBLL\bin\Debug\netstandard2.0\DukanzEntityAbstractions.pdb
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzBLL\obj\Debug\netstandard2.0\DukanzBLL.csprojAssemblyReference.cache
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzBLL\obj\Debug\netstandard2.0\DukanzBLL.AssemblyInfoInputs.cache
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzBLL\obj\Debug\netstandard2.0\DukanzBLL.AssemblyInfo.cs
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzBLL\obj\Debug\netstandard2.0\DukanzBLL.csproj.CoreCompileInputs.cache
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzBLL\obj\Debug\netstandard2.0\DukanzBLL.csproj.CopyComplete
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzBLL\obj\Debug\netstandard2.0\DukanzBLL.dll
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzBLL\obj\Debug\netstandard2.0\DukanzBLL.pdb

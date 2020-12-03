@@ -1,0 +1,756 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\architecture poc\\Dukanz\\DukanzAPI\\DukanzAPI.csproj": {}
+  },
+  "projects": {
+    "D:\\architecture poc\\Dukanz\\Changelog\\Changelog.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\architecture poc\\Dukanz\\Changelog\\Changelog.csproj",
+        "projectName": "Changelog",
+        "projectPath": "D:\\architecture poc\\Dukanz\\Changelog\\Changelog.csproj",
+        "packagesPath": "C:\\Users\\Jabra\\.nuget\\packages\\",
+        "outputPath": "D:\\architecture poc\\Dukanz\\Changelog\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jabra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "D:\\architecture poc\\Dukanz\\DukanzAbstractions\\EntityAbstractions.csproj": {
+                "projectPath": "D:\\architecture poc\\Dukanz\\DukanzAbstractions\\EntityAbstractions.csproj"
+              },
+              "D:\\architecture poc\\Dukanz\\DukanzDataServiceAbstraction\\DataServiceAbstraction.csproj": {
+                "projectPath": "D:\\architecture poc\\Dukanz\\DukanzDataServiceAbstraction\\DataServiceAbstraction.csproj"
+              },
+              "D:\\architecture poc\\Dukanz\\DukanzEntityManagerAbstractions\\EntityManagerAbstractions.csproj": {
+                "projectPath": "D:\\architecture poc\\Dukanz\\DukanzEntityManagerAbstractions\\EntityManagerAbstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Unity.Interception": {
+              "target": "Package",
+              "version": "[5.11.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\architecture poc\\Dukanz\\DukanzAbstractions\\EntityAbstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\architecture poc\\Dukanz\\DukanzAbstractions\\EntityAbstractions.csproj",
+        "projectName": "EntityAbstractions",
+        "projectPath": "D:\\architecture poc\\Dukanz\\DukanzAbstractions\\EntityAbstractions.csproj",
+        "packagesPath": "C:\\Users\\Jabra\\.nuget\\packages\\",
+        "outputPath": "D:\\architecture poc\\Dukanz\\DukanzAbstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jabra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\architecture poc\\Dukanz\\DukanzAPI\\DukanzAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\architecture poc\\Dukanz\\DukanzAPI\\DukanzAPI.csproj",
+        "projectName": "DukanzAPI",
+        "projectPath": "D:\\architecture poc\\Dukanz\\DukanzAPI\\DukanzAPI.csproj",
+        "packagesPath": "C:\\Users\\Jabra\\.nuget\\packages\\",
+        "outputPath": "D:\\architecture poc\\Dukanz\\DukanzAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jabra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\architecture poc\\Dukanz\\DukanzAbstractions\\DukanzEntityAbstractions.csproj": {
+                "projectPath": "D:\\architecture poc\\Dukanz\\DukanzAbstractions\\DukanzEntityAbstractions.csproj"
+              },
+              "D:\\architecture poc\\Dukanz\\DukanzBootstrapper\\DukanzBootstrapper.csproj": {
+                "projectPath": "D:\\architecture poc\\Dukanz\\DukanzBootstrapper\\DukanzBootstrapper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Unity.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.11.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\architecture poc\\Dukanz\\DukanzBLL\\DukanzBLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\architecture poc\\Dukanz\\DukanzBLL\\DukanzBLL.csproj",
+        "projectName": "DukanzBLL",
+        "projectPath": "D:\\architecture poc\\Dukanz\\DukanzBLL\\DukanzBLL.csproj",
+        "packagesPath": "C:\\Users\\Jabra\\.nuget\\packages\\",
+        "outputPath": "D:\\architecture poc\\Dukanz\\DukanzBLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jabra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "D:\\architecture poc\\Dukanz\\DukanzAbstractions\\DukanzEntityAbstractions.csproj": {
+                "projectPath": "D:\\architecture poc\\Dukanz\\DukanzAbstractions\\DukanzEntityAbstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\architecture poc\\Dukanz\\DukanzBootstrapper\\DukanzBootstrapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\architecture poc\\Dukanz\\DukanzBootstrapper\\DukanzBootstrapper.csproj",
+        "projectName": "DukanzBootstrapper",
+        "projectPath": "D:\\architecture poc\\Dukanz\\DukanzBootstrapper\\DukanzBootstrapper.csproj",
+        "packagesPath": "C:\\Users\\Jabra\\.nuget\\packages\\",
+        "outputPath": "D:\\architecture poc\\Dukanz\\DukanzBootstrapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jabra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "D:\\architecture poc\\Dukanz\\Changelog\\Changelog.csproj": {
+                "projectPath": "D:\\architecture poc\\Dukanz\\Changelog\\Changelog.csproj"
+              },
+              "D:\\architecture poc\\Dukanz\\DukanzAbstractions\\EntityAbstractions.csproj": {
+                "projectPath": "D:\\architecture poc\\Dukanz\\DukanzAbstractions\\EntityAbstractions.csproj"
+              },
+              "D:\\architecture poc\\Dukanz\\DukanzBLL\\DukanzBLL.csproj": {
+                "projectPath": "D:\\architecture poc\\Dukanz\\DukanzBLL\\DukanzBLL.csproj"
+              },
+              "D:\\architecture poc\\Dukanz\\DukanzCosmosDataService\\DukanzCosmosDataService.csproj": {
+                "projectPath": "D:\\architecture poc\\Dukanz\\DukanzCosmosDataService\\DukanzCosmosDataService.csproj"
+              },
+              "D:\\architecture poc\\Dukanz\\DukanzDataServiceAbstraction\\DataServiceAbstraction.csproj": {
+                "projectPath": "D:\\architecture poc\\Dukanz\\DukanzDataServiceAbstraction\\DataServiceAbstraction.csproj"
+              },
+              "D:\\architecture poc\\Dukanz\\DukanzEntityManagerAbstractions\\DukanzEntityManagerAbstractions.csproj": {
+                "projectPath": "D:\\architecture poc\\Dukanz\\DukanzEntityManagerAbstractions\\DukanzEntityManagerAbstractions.csproj"
+              },
+              "D:\\architecture poc\\Dukanz\\DukanzEntityManager\\DukanzEntityManager.csproj": {
+                "projectPath": "D:\\architecture poc\\Dukanz\\DukanzEntityManager\\DukanzEntityManager.csproj"
+              },
+              "D:\\architecture poc\\Dukanz\\DynamoDBDataService\\DynamoDBDataService.csproj": {
+                "projectPath": "D:\\architecture poc\\Dukanz\\DynamoDBDataService\\DynamoDBDataService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Unity": {
+              "target": "Package",
+              "version": "[5.11.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\architecture poc\\Dukanz\\DukanzCosmosDataService\\DukanzCosmosDataService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\architecture poc\\Dukanz\\DukanzCosmosDataService\\DukanzCosmosDataService.csproj",
+        "projectName": "DukanzCosmosDataService",
+        "projectPath": "D:\\architecture poc\\Dukanz\\DukanzCosmosDataService\\DukanzCosmosDataService.csproj",
+        "packagesPath": "C:\\Users\\Jabra\\.nuget\\packages\\",
+        "outputPath": "D:\\architecture poc\\Dukanz\\DukanzCosmosDataService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jabra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "D:\\architecture poc\\Dukanz\\DukanzBLL\\DukanzBLL.csproj": {
+                "projectPath": "D:\\architecture poc\\Dukanz\\DukanzBLL\\DukanzBLL.csproj"
+              },
+              "D:\\architecture poc\\Dukanz\\DukanzDataServiceAbstraction\\DukanzDataServiceAbstraction.csproj": {
+                "projectPath": "D:\\architecture poc\\Dukanz\\DukanzDataServiceAbstraction\\DukanzDataServiceAbstraction.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "AWSSDK.DynamoDBv2": {
+              "target": "Package",
+              "version": "[3.5.4.1, )"
+            },
+            "Microsoft.Azure.Cosmos": {
+              "target": "Package",
+              "version": "[3.10.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\architecture poc\\Dukanz\\DukanzDataServiceAbstraction\\DataServiceAbstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\architecture poc\\Dukanz\\DukanzDataServiceAbstraction\\DataServiceAbstraction.csproj",
+        "projectName": "DataServiceAbstraction",
+        "projectPath": "D:\\architecture poc\\Dukanz\\DukanzDataServiceAbstraction\\DataServiceAbstraction.csproj",
+        "packagesPath": "C:\\Users\\Jabra\\.nuget\\packages\\",
+        "outputPath": "D:\\architecture poc\\Dukanz\\DukanzDataServiceAbstraction\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jabra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "D:\\architecture poc\\Dukanz\\DukanzAbstractions\\EntityAbstractions.csproj": {
+                "projectPath": "D:\\architecture poc\\Dukanz\\DukanzAbstractions\\EntityAbstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\architecture poc\\Dukanz\\DukanzEntityManagerAbstractions\\DukanzEntityManagerAbstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\architecture poc\\Dukanz\\DukanzEntityManagerAbstractions\\DukanzEntityManagerAbstractions.csproj",
+        "projectName": "DukanzEntityManagerAbstractions",
+        "projectPath": "D:\\architecture poc\\Dukanz\\DukanzEntityManagerAbstractions\\DukanzEntityManagerAbstractions.csproj",
+        "packagesPath": "C:\\Users\\Jabra\\.nuget\\packages\\",
+        "outputPath": "D:\\architecture poc\\Dukanz\\DukanzEntityManagerAbstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jabra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "D:\\architecture poc\\Dukanz\\DukanzAbstractions\\EntityAbstractions.csproj": {
+                "projectPath": "D:\\architecture poc\\Dukanz\\DukanzAbstractions\\EntityAbstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\architecture poc\\Dukanz\\DukanzEntityManagerAbstractions\\EntityManagerAbstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\architecture poc\\Dukanz\\DukanzEntityManagerAbstractions\\EntityManagerAbstractions.csproj",
+        "projectName": "EntityManagerAbstractions",
+        "projectPath": "D:\\architecture poc\\Dukanz\\DukanzEntityManagerAbstractions\\EntityManagerAbstractions.csproj",
+        "packagesPath": "C:\\Users\\Jabra\\.nuget\\packages\\",
+        "outputPath": "D:\\architecture poc\\Dukanz\\DukanzEntityManagerAbstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jabra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "D:\\architecture poc\\Dukanz\\DukanzAbstractions\\EntityAbstractions.csproj": {
+                "projectPath": "D:\\architecture poc\\Dukanz\\DukanzAbstractions\\EntityAbstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\architecture poc\\Dukanz\\DukanzEntityManager\\DukanzEntityManager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\architecture poc\\Dukanz\\DukanzEntityManager\\DukanzEntityManager.csproj",
+        "projectName": "DukanzEntityManager",
+        "projectPath": "D:\\architecture poc\\Dukanz\\DukanzEntityManager\\DukanzEntityManager.csproj",
+        "packagesPath": "C:\\Users\\Jabra\\.nuget\\packages\\",
+        "outputPath": "D:\\architecture poc\\Dukanz\\DukanzEntityManager\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jabra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "D:\\architecture poc\\Dukanz\\DukanzDataServiceAbstraction\\DukanzDataServiceAbstraction.csproj": {
+                "projectPath": "D:\\architecture poc\\Dukanz\\DukanzDataServiceAbstraction\\DukanzDataServiceAbstraction.csproj"
+              },
+              "D:\\architecture poc\\Dukanz\\DukanzEntityManagerAbstractions\\DukanzEntityManagerAbstractions.csproj": {
+                "projectPath": "D:\\architecture poc\\Dukanz\\DukanzEntityManagerAbstractions\\DukanzEntityManagerAbstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Unity.Abstractions": {
+              "target": "Package",
+              "version": "[5.11.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\architecture poc\\Dukanz\\DynamoDBDataService\\DynamoDBDataService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\architecture poc\\Dukanz\\DynamoDBDataService\\DynamoDBDataService.csproj",
+        "projectName": "DynamoDBDataService",
+        "projectPath": "D:\\architecture poc\\Dukanz\\DynamoDBDataService\\DynamoDBDataService.csproj",
+        "packagesPath": "C:\\Users\\Jabra\\.nuget\\packages\\",
+        "outputPath": "D:\\architecture poc\\Dukanz\\DynamoDBDataService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jabra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "D:\\architecture poc\\Dukanz\\DukanzBLL\\DukanzBLL.csproj": {
+                "projectPath": "D:\\architecture poc\\Dukanz\\DukanzBLL\\DukanzBLL.csproj"
+              },
+              "D:\\architecture poc\\Dukanz\\DukanzDataServiceAbstraction\\DukanzDataServiceAbstraction.csproj": {
+                "projectPath": "D:\\architecture poc\\Dukanz\\DukanzDataServiceAbstraction\\DukanzDataServiceAbstraction.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "AWSSDK.DynamoDBv2": {
+              "target": "Package",
+              "version": "[3.5.4.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

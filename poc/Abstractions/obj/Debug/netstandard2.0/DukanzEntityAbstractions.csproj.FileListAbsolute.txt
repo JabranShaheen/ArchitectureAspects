@@ -1,0 +1,8 @@
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzAbstractions\bin\Debug\netstandard2.0\DukanzEntityAbstractions.deps.json
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzAbstractions\bin\Debug\netstandard2.0\DukanzEntityAbstractions.dll
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzAbstractions\bin\Debug\netstandard2.0\DukanzEntityAbstractions.pdb
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzAbstractions\obj\Debug\netstandard2.0\DukanzEntityAbstractions.AssemblyInfoInputs.cache
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzAbstractions\obj\Debug\netstandard2.0\DukanzEntityAbstractions.AssemblyInfo.cs
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzAbstractions\obj\Debug\netstandard2.0\DukanzEntityAbstractions.csproj.CoreCompileInputs.cache
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzAbstractions\obj\Debug\netstandard2.0\DukanzEntityAbstractions.dll
+C:\Users\Jabra\source\repos\DukanzAPI\Dukanz\DukanzAbstractions\obj\Debug\netstandard2.0\DukanzEntityAbstractions.pdb

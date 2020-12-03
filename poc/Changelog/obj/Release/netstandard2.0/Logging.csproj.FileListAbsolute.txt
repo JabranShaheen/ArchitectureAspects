@@ -1,0 +1,16 @@
+D:\architecture poc\poc\Changelog\bin\Release\netstandard2.0\Logging.deps.json
+D:\architecture poc\poc\Changelog\bin\Release\netstandard2.0\Logging.dll
+D:\architecture poc\poc\Changelog\bin\Release\netstandard2.0\Logging.pdb
+D:\architecture poc\poc\Changelog\bin\Release\netstandard2.0\DataServiceAbstraction.dll
+D:\architecture poc\poc\Changelog\bin\Release\netstandard2.0\EntityAbstractions.dll
+D:\architecture poc\poc\Changelog\bin\Release\netstandard2.0\EntityManagerAbstractions.dll
+D:\architecture poc\poc\Changelog\bin\Release\netstandard2.0\EntityManagerAbstractions.pdb
+D:\architecture poc\poc\Changelog\bin\Release\netstandard2.0\DataServiceAbstraction.pdb
+D:\architecture poc\poc\Changelog\bin\Release\netstandard2.0\EntityAbstractions.pdb
+D:\architecture poc\poc\Changelog\obj\Release\netstandard2.0\Logging.csprojAssemblyReference.cache
+D:\architecture poc\poc\Changelog\obj\Release\netstandard2.0\Logging.AssemblyInfoInputs.cache
+D:\architecture poc\poc\Changelog\obj\Release\netstandard2.0\Logging.AssemblyInfo.cs
+D:\architecture poc\poc\Changelog\obj\Release\netstandard2.0\Logging.csproj.CoreCompileInputs.cache
+D:\architecture poc\poc\Changelog\obj\Release\netstandard2.0\Logging.csproj.CopyComplete
+D:\architecture poc\poc\Changelog\obj\Release\netstandard2.0\Logging.dll
+D:\architecture poc\poc\Changelog\obj\Release\netstandard2.0\Logging.pdb

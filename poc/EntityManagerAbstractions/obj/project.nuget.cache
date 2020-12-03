@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6rSzjFe0mITnwahrX0hYwRlphd0ld37vC2fkY+blJeDvh6aREJ9gDELXxIyPn+4pOk/xDkIyh2mgXXst0PG/8w==",
+  "success": true,
+  "projectFilePath": "D:\\architecture poc\\poc\\EntityManagerAbstractions\\EntityManagerAbstractions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jabra\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Jabra\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Jabra\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

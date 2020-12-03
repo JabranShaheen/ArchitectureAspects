@@ -1,0 +1,16 @@
+D:\architecture poc\poc\EntityManager\bin\Release\netstandard2.0\EntityManager.deps.json
+D:\architecture poc\poc\EntityManager\bin\Release\netstandard2.0\EntityManager.dll
+D:\architecture poc\poc\EntityManager\bin\Release\netstandard2.0\EntityManager.pdb
+D:\architecture poc\poc\EntityManager\bin\Release\netstandard2.0\DataServiceAbstraction.dll
+D:\architecture poc\poc\EntityManager\bin\Release\netstandard2.0\EntityAbstractions.dll
+D:\architecture poc\poc\EntityManager\bin\Release\netstandard2.0\EntityManagerAbstractions.dll
+D:\architecture poc\poc\EntityManager\bin\Release\netstandard2.0\EntityAbstractions.pdb
+D:\architecture poc\poc\EntityManager\bin\Release\netstandard2.0\DataServiceAbstraction.pdb
+D:\architecture poc\poc\EntityManager\bin\Release\netstandard2.0\EntityManagerAbstractions.pdb
+D:\architecture poc\poc\EntityManager\obj\Release\netstandard2.0\EntityManager.csprojAssemblyReference.cache
+D:\architecture poc\poc\EntityManager\obj\Release\netstandard2.0\EntityManager.AssemblyInfoInputs.cache
+D:\architecture poc\poc\EntityManager\obj\Release\netstandard2.0\EntityManager.AssemblyInfo.cs
+D:\architecture poc\poc\EntityManager\obj\Release\netstandard2.0\EntityManager.csproj.CoreCompileInputs.cache
+D:\architecture poc\poc\EntityManager\obj\Release\netstandard2.0\EntityManager.csproj.CopyComplete
+D:\architecture poc\poc\EntityManager\obj\Release\netstandard2.0\EntityManager.dll
+D:\architecture poc\poc\EntityManager\obj\Release\netstandard2.0\EntityManager.pdb

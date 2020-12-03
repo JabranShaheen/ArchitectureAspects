@@ -1,0 +1,16 @@
+D:\architecture poc\poc\DataService\bin\Release\netstandard2.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\architecture poc\poc\DataService\bin\Release\netstandard2.0\Cosmos.CRTCompat.dll
+D:\architecture poc\poc\DataService\bin\Release\netstandard2.0\DataService.deps.json
+D:\architecture poc\poc\DataService\bin\Release\netstandard2.0\DataService.dll
+D:\architecture poc\poc\DataService\bin\Release\netstandard2.0\DataService.pdb
+D:\architecture poc\poc\DataService\bin\Release\netstandard2.0\DataServiceAbstraction.dll
+D:\architecture poc\poc\DataService\bin\Release\netstandard2.0\EntityAbstractions.dll
+D:\architecture poc\poc\DataService\bin\Release\netstandard2.0\EntityAbstractions.pdb
+D:\architecture poc\poc\DataService\bin\Release\netstandard2.0\DataServiceAbstraction.pdb
+D:\architecture poc\poc\DataService\obj\Release\netstandard2.0\DataService.csprojAssemblyReference.cache
+D:\architecture poc\poc\DataService\obj\Release\netstandard2.0\DataService.AssemblyInfoInputs.cache
+D:\architecture poc\poc\DataService\obj\Release\netstandard2.0\DataService.AssemblyInfo.cs
+D:\architecture poc\poc\DataService\obj\Release\netstandard2.0\DataService.csproj.CoreCompileInputs.cache
+D:\architecture poc\poc\DataService\obj\Release\netstandard2.0\DataService.csproj.CopyComplete
+D:\architecture poc\poc\DataService\obj\Release\netstandard2.0\DataService.dll
+D:\architecture poc\poc\DataService\obj\Release\netstandard2.0\DataService.pdb

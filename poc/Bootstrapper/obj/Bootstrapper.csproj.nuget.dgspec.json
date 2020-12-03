@@ -1,0 +1,554 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\architecture poc\\poc\\Bootstrapper\\Bootstrapper.csproj": {}
+  },
+  "projects": {
+    "D:\\architecture poc\\poc\\Abstractions\\EntityAbstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\architecture poc\\poc\\Abstractions\\EntityAbstractions.csproj",
+        "projectName": "EntityAbstractions",
+        "projectPath": "D:\\architecture poc\\poc\\Abstractions\\EntityAbstractions.csproj",
+        "packagesPath": "C:\\Users\\Jabra\\.nuget\\packages\\",
+        "outputPath": "D:\\architecture poc\\poc\\Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jabra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\architecture poc\\poc\\BLL\\BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\architecture poc\\poc\\BLL\\BLL.csproj",
+        "projectName": "BLL",
+        "projectPath": "D:\\architecture poc\\poc\\BLL\\BLL.csproj",
+        "packagesPath": "C:\\Users\\Jabra\\.nuget\\packages\\",
+        "outputPath": "D:\\architecture poc\\poc\\BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jabra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "D:\\architecture poc\\poc\\Abstractions\\EntityAbstractions.csproj": {
+                "projectPath": "D:\\architecture poc\\poc\\Abstractions\\EntityAbstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\architecture poc\\poc\\Bootstrapper\\Bootstrapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\architecture poc\\poc\\Bootstrapper\\Bootstrapper.csproj",
+        "projectName": "Bootstrapper",
+        "projectPath": "D:\\architecture poc\\poc\\Bootstrapper\\Bootstrapper.csproj",
+        "packagesPath": "C:\\Users\\Jabra\\.nuget\\packages\\",
+        "outputPath": "D:\\architecture poc\\poc\\Bootstrapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jabra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "D:\\architecture poc\\poc\\Abstractions\\EntityAbstractions.csproj": {
+                "projectPath": "D:\\architecture poc\\poc\\Abstractions\\EntityAbstractions.csproj"
+              },
+              "D:\\architecture poc\\poc\\BLL\\BLL.csproj": {
+                "projectPath": "D:\\architecture poc\\poc\\BLL\\BLL.csproj"
+              },
+              "D:\\architecture poc\\poc\\Changelog\\Logging.csproj": {
+                "projectPath": "D:\\architecture poc\\poc\\Changelog\\Logging.csproj"
+              },
+              "D:\\architecture poc\\poc\\DataServiceAbstraction\\DataServiceAbstraction.csproj": {
+                "projectPath": "D:\\architecture poc\\poc\\DataServiceAbstraction\\DataServiceAbstraction.csproj"
+              },
+              "D:\\architecture poc\\poc\\DataService\\DataService.csproj": {
+                "projectPath": "D:\\architecture poc\\poc\\DataService\\DataService.csproj"
+              },
+              "D:\\architecture poc\\poc\\EntityManagerAbstractions\\EntityManagerAbstractions.csproj": {
+                "projectPath": "D:\\architecture poc\\poc\\EntityManagerAbstractions\\EntityManagerAbstractions.csproj"
+              },
+              "D:\\architecture poc\\poc\\EntityManager\\EntityManager.csproj": {
+                "projectPath": "D:\\architecture poc\\poc\\EntityManager\\EntityManager.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Unity": {
+              "target": "Package",
+              "version": "[5.11.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\architecture poc\\poc\\Changelog\\Logging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\architecture poc\\poc\\Changelog\\Logging.csproj",
+        "projectName": "Logging",
+        "projectPath": "D:\\architecture poc\\poc\\Changelog\\Logging.csproj",
+        "packagesPath": "C:\\Users\\Jabra\\.nuget\\packages\\",
+        "outputPath": "D:\\architecture poc\\poc\\Changelog\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jabra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "D:\\architecture poc\\poc\\EntityManagerAbstractions\\EntityManagerAbstractions.csproj": {
+                "projectPath": "D:\\architecture poc\\poc\\EntityManagerAbstractions\\EntityManagerAbstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Unity.Interception": {
+              "target": "Package",
+              "version": "[5.11.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\architecture poc\\poc\\DataServiceAbstraction\\DataServiceAbstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\architecture poc\\poc\\DataServiceAbstraction\\DataServiceAbstraction.csproj",
+        "projectName": "DataServiceAbstraction",
+        "projectPath": "D:\\architecture poc\\poc\\DataServiceAbstraction\\DataServiceAbstraction.csproj",
+        "packagesPath": "C:\\Users\\Jabra\\.nuget\\packages\\",
+        "outputPath": "D:\\architecture poc\\poc\\DataServiceAbstraction\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jabra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "D:\\architecture poc\\poc\\Abstractions\\EntityAbstractions.csproj": {
+                "projectPath": "D:\\architecture poc\\poc\\Abstractions\\EntityAbstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\architecture poc\\poc\\DataService\\DataService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\architecture poc\\poc\\DataService\\DataService.csproj",
+        "projectName": "DataService",
+        "projectPath": "D:\\architecture poc\\poc\\DataService\\DataService.csproj",
+        "packagesPath": "C:\\Users\\Jabra\\.nuget\\packages\\",
+        "outputPath": "D:\\architecture poc\\poc\\DataService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jabra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "D:\\architecture poc\\poc\\Abstractions\\EntityAbstractions.csproj": {
+                "projectPath": "D:\\architecture poc\\poc\\Abstractions\\EntityAbstractions.csproj"
+              },
+              "D:\\architecture poc\\poc\\DataServiceAbstraction\\DataServiceAbstraction.csproj": {
+                "projectPath": "D:\\architecture poc\\poc\\DataServiceAbstraction\\DataServiceAbstraction.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "AWSSDK.DynamoDBv2": {
+              "target": "Package",
+              "version": "[3.5.4.1, )"
+            },
+            "Microsoft.Azure.Cosmos": {
+              "target": "Package",
+              "version": "[3.10.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\architecture poc\\poc\\EntityManagerAbstractions\\EntityManagerAbstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\architecture poc\\poc\\EntityManagerAbstractions\\EntityManagerAbstractions.csproj",
+        "projectName": "EntityManagerAbstractions",
+        "projectPath": "D:\\architecture poc\\poc\\EntityManagerAbstractions\\EntityManagerAbstractions.csproj",
+        "packagesPath": "C:\\Users\\Jabra\\.nuget\\packages\\",
+        "outputPath": "D:\\architecture poc\\poc\\EntityManagerAbstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jabra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "D:\\architecture poc\\poc\\Abstractions\\EntityAbstractions.csproj": {
+                "projectPath": "D:\\architecture poc\\poc\\Abstractions\\EntityAbstractions.csproj"
+              },
+              "D:\\architecture poc\\poc\\DataServiceAbstraction\\DataServiceAbstraction.csproj": {
+                "projectPath": "D:\\architecture poc\\poc\\DataServiceAbstraction\\DataServiceAbstraction.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\architecture poc\\poc\\EntityManager\\EntityManager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\architecture poc\\poc\\EntityManager\\EntityManager.csproj",
+        "projectName": "EntityManager",
+        "projectPath": "D:\\architecture poc\\poc\\EntityManager\\EntityManager.csproj",
+        "packagesPath": "C:\\Users\\Jabra\\.nuget\\packages\\",
+        "outputPath": "D:\\architecture poc\\poc\\EntityManager\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jabra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "D:\\architecture poc\\poc\\Abstractions\\EntityAbstractions.csproj": {
+                "projectPath": "D:\\architecture poc\\poc\\Abstractions\\EntityAbstractions.csproj"
+              },
+              "D:\\architecture poc\\poc\\DataServiceAbstraction\\DataServiceAbstraction.csproj": {
+                "projectPath": "D:\\architecture poc\\poc\\DataServiceAbstraction\\DataServiceAbstraction.csproj"
+              },
+              "D:\\architecture poc\\poc\\EntityManagerAbstractions\\EntityManagerAbstractions.csproj": {
+                "projectPath": "D:\\architecture poc\\poc\\EntityManagerAbstractions\\EntityManagerAbstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Unity.Abstractions": {
+              "target": "Package",
+              "version": "[5.11.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
